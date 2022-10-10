@@ -1,3 +1,2 @@
 #!/bin/bash
 echo "hello world"
-sort < 0-hello_world
